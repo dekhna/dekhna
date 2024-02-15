@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @dekhna
-- 👀 I’m interested in ... hacking 
+- 👋 Hi, I’m @kanha
+- 👀 I’m interested in ... mobile hacking 
 - 🌱 I’m currently learning ... ethical hacking
 - 💞️ I’m looking to collaborate on ...cyber security 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach my... hacking skill
+- 😄 Pronouns: ... sss
+- ⚡ Fun fact: ... sss
 
 <!---
 dekhna/dekhna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
